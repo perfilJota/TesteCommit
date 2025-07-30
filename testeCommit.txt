@@ -1,3 +1,2 @@
-ola men
-segundo men
-teste 3
+git commit -am . --> serve para pegar todas as modificações feitas e "salavar" deixar pronto pro push
+git push --> serve para enviar as alterações que fiz para o servidor no git( o repositorio!)
